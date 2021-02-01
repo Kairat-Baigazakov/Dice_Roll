@@ -9,8 +9,7 @@ import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static int random;
-    //public static int random2;
+    private int random;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
